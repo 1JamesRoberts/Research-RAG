@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: rag
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: chromadb>=1.5.9
+Requires-Dist: pymupdf>=2.1
+Requires-Dist: scikit-learn>=1.9.1
+Requires-Dist: sentence-transformers>=6.2.0
