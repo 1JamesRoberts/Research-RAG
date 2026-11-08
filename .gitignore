@@ -2,3 +2,5 @@
 data/
 *.egg-info/
 __pycache__/
+HANDOFF.md
+.DS_Store
